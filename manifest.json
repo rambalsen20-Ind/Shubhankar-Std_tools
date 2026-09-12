@@ -1,0 +1,9 @@
+{
+  "name": "Study Quest",
+  "short_name": "Study Quest",
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#18324f",
+  "background_color": "#eaf1f4",
+  "description": "Daily study tasks, weekly goals, streaks and motivation."
+}
